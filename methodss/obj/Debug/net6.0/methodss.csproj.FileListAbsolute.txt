@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\methodss\methodss\methodss\methodss\bin\Debug\net6.0\methodss.exe
+C:\Users\HP\Desktop\methodss\methodss\methodss\methodss\bin\Debug\net6.0\methodss.deps.json
+C:\Users\HP\Desktop\methodss\methodss\methodss\methodss\bin\Debug\net6.0\methodss.runtimeconfig.json
+C:\Users\HP\Desktop\methodss\methodss\methodss\methodss\bin\Debug\net6.0\methodss.dll
+C:\Users\HP\Desktop\methodss\methodss\methodss\methodss\bin\Debug\net6.0\methodss.pdb
+C:\Users\HP\Desktop\methodss\methodss\methodss\methodss\obj\Debug\net6.0\methodss.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\methodss\methodss\methodss\methodss\obj\Debug\net6.0\methodss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\methodss\methodss\methodss\methodss\obj\Debug\net6.0\methodss.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\methodss\methodss\methodss\methodss\obj\Debug\net6.0\methodss.AssemblyInfo.cs
+C:\Users\HP\Desktop\methodss\methodss\methodss\methodss\obj\Debug\net6.0\methodss.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\methodss\methodss\methodss\methodss\obj\Debug\net6.0\methodss.dll
+C:\Users\HP\Desktop\methodss\methodss\methodss\methodss\obj\Debug\net6.0\refint\methodss.dll
+C:\Users\HP\Desktop\methodss\methodss\methodss\methodss\obj\Debug\net6.0\methodss.pdb
+C:\Users\HP\Desktop\methodss\methodss\methodss\methodss\obj\Debug\net6.0\methodss.genruntimeconfig.cache
+C:\Users\HP\Desktop\methodss\methodss\methodss\methodss\obj\Debug\net6.0\ref\methodss.dll
